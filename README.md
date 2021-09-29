@@ -4,8 +4,8 @@ For the last three years I've worked on an NHS community project called Digital 
 
 - 🔭 I’m currently part of the Founders And Coders FAC23 cohort
 - 🌱 I’m currently learning Git and Markdown
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about neuroscience, philosophy, mushrooms and frogs 🐸!
+- 🤔 I’m looking for help with finding new web development podcasts!
+- 💬 Ask me about web dev, neuroscience, philosophy, mushrooms and frogs 🐸!
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: he/him
 
