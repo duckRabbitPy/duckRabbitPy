@@ -9,8 +9,8 @@
 
 
 
-I'm the type of person that enjoys the challenge of constantly learning and solving novel problems. I want to build professional software that is inclusive, fast and enjoyable for all. Throughout my exploration of development I have built projects using Wix and WordPress, Python – PyQT and Django, HTML, CSS and JavaScript
-Svelte.
+I'm the type of person that enjoys the challenge of constantly learning and solving novel problems. I want to build professional software that is inclusive, fast and enjoyable for all. Throughout my exploration of development I have built projects using Wix and WordPress, Python – PyQT and Django, HTML, CSS, JavaScript
+and Svelte.
 
 
 <table><tr>
