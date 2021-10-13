@@ -6,10 +6,10 @@
 - 🔭 I’m currently part of the Founders And Coders FAC23 cohort
 - 🌱 I’m looking forward to learning Node, React and TypeScript
 - 🤔 I’m looking for help to find fresh web development podcasts!
-- 💬 Ask me about web dev, neuroscience, philosophy, mushrooms or frogs 🐸!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/olilukejones)
+- 💬 Ask me about web dev, neuroscience, mushrooms or frogs 🐸!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/olilukejones), [Twitter](https://twitter.com/duck_rabbit_py), [Codewars](https://www.codewars.com/users/duckRabbit)
 
-I'm the type of person that enjoys the challenge of constantly learning and solving novel problems. I want to build professional software that is inclusive, fast and enjoyable for all. Throughout my exploration of development I have built projects using Wix, Python – PyQT and Django, HTML, CSS, JavaScript
+I enjoy the challenge of constantly learning and solving novel problems. I want to build professional software that is inclusive, fast and secure for all. Throughout my exploration of development I have built projects using Wix, Python – PyQT and Django, HTML, CSS, JavaScript
 and Svelte.
 <br><br>
 
