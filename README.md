@@ -14,19 +14,16 @@ and Svelte.
 <br><br>
 
 <table><tr>
-<td><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/380_Wix_logo-512.png" width="80" height="80" alt="wix icon"/></td>
 
-<td><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="80" height="80" alt="python icon"/></td>
-
-<td><img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" width="80" height="80" alt="html icon"/></td>
-
-<td><img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" width="80" height="80" alt="css icon"/></td>
+<td><img src="Assets/JavaScript.png" height="100px" alt="javascript icon"/></td>
   
-<td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" width="80" height="80" alt="javascript icon"/></td>
+<td><img src="Assets/Svelte.png" height="100px" alt="svelte icon"/></td>
+  
+<td><img src="/Assets/Python.png" height="100px" alt="python icon"/></td>
 
-<td><img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" width="80" height="80" alt="django icon"/></td>
+<td><img src="Assets/Django.png" height="100px" alt="django icon"/></td>
 
-<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/638px-Svelte_Logo.svg.png" width="80" height="80" alt="svelte icon"/></td>
+  
 </tr></table>
 
 <br><br>
