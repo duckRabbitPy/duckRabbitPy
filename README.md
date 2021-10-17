@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently part of the Founders And Coders FAC23 cohort
 - 🌱 I’m looking forward to learning Node, React and TypeScript
-- 🤔 I’m looking for help to find fresh web development podcasts!
 - 💬 Ask me about web dev, neuroscience, mushrooms or frogs 🐸!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/olilukejones), [Twitter](https://twitter.com/duck_rabbit_py), [Codewars](https://www.codewars.com/users/duckRabbit)
 
