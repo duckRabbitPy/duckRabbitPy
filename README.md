@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently part of the Founders And Coders FAC23 cohort
 - 🌱 I’m looking forward to learning Node, React and TypeScript
-- 💬 Ask me about web dev, neuroscience, mushrooms or frogs 🐸!
+- 💬 Ask me about web dev, neuroscience, digital inclusion or frogs 🐸!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/olilukejones), [Twitter](https://twitter.com/duck_rabbit_py), [Codewars](https://www.codewars.com/users/duckRabbit)
 
 I enjoy the challenge of constantly learning and solving novel problems. I want to build professional software that is inclusive, fast and secure for all. Throughout my exploration of development I have built projects using Python, Django, HTML, CSS, JavaScript and Svelte.
