@@ -3,7 +3,9 @@
 
 ### Hi my name is Oli and I want to build software that's awesome for everyone!
 
-- 🔭 I’m currently part of the Founders And Coders FAC23 cohort
+# 
+- 💾 My work background is in scientific communication, digital inclusion and promoting public involvement in research
+- 🔭 I’m an aspiring software developer, currently part of the Founders And Coders FAC23 cohort
 - 🌱 I’m looking forward to learning Node, React and TypeScript
 - 💬 Ask me about web dev, neuroscience, digital inclusion or frogs 🐸!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/olilukejones), [Twitter](https://twitter.com/duck_rabbit_py), [Codewars](https://www.codewars.com/users/duckRabbit)
