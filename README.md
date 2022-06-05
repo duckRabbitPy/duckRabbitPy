@@ -1,7 +1,7 @@
 <img src="https://duck-rabbit-s3-bucket.s3.eu-west-2.amazonaws.com/github+banner+2.png" alt="github banner">
 
 
-### Hi my name is Oli, an Apprentice Software Engineer at Opvia 🧑🏾‍💻
+### Hi my name is Oli, Apprentice Software Engineer at Opvia 🧑🏾‍💻
 
 - 💾 My work background is in scientific communication, digital inclusion and promoting public involvement in research
 - 🙌 I’m an alumni of the FAC23 cohort at Founders And Coders
