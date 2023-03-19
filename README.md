@@ -1,8 +1,9 @@
-### Hi my name is Oli, Apprentice Software Engineer at Opvia 🧑🏾‍💻
+### Hi my name is Oli, Software Engineer at Opvia 🧑🏾‍💻
 
 - 💾 My work background is in scientific communication, digital inclusion and promoting public involvement in research
 - 🙌 I’m an alumni of the FAC23 cohort at Founders And Coders
-- 🌱 I'm working on advancing proficiency in Node, React, Next.js, TypeScript and GraphQL
+- 💪🏽 I professionally work with Node, React, Next.js, TypeScript and GraphQL
+- 🌱 I'm currently learning Scala and the principles of functional programming
 - 📫 You can find me on: [LinkedIn](https://www.linkedin.com/in/olilukejones), [Twitter](https://twitter.com/duck_rabbit_py), [Codewars](https://www.codewars.com/users/duckRabbit)
 
 <b>Q</b>: What's the deal with the gitHub name?
