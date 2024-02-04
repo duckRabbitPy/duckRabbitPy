@@ -4,7 +4,7 @@
 - 💾 My work background prior to development was in scientific communication, digital inclusion and promoting public involvement in research
 - 🙌 I’m an alumni of the FAC23 cohort at Founders And Coders
 - 💪🏽 I professionally work with Node, React, Next.js, TypeScript and GraphQL at [Opvia](https://www.opvia.io/)
-- 🌱 I'm currently learning Scala, OCaml, EffectTS and the principles of functional programming
+- 🌱 I'm currently learning Gleam ✨,  EffectTS and functional programming
 - 📫 You can find me on: [LinkedIn](https://www.linkedin.com/in/olilukejones), [Twitter](https://twitter.com/duck_rabbit_py), [Codewars](https://www.codewars.com/users/duckRabbit)
 <br />
 <b>Q</b>: What's the deal with the github name?
