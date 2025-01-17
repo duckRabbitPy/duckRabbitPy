@@ -1,4 +1,4 @@
-### Hi my name is Oli, Software Engineer at Opvia 🧑🏾‍💻
+### Hi my name is Oli, Software Engineer at Stitch 🧑🏾‍💻
 <br />
 
 - 💾 My work background prior to development was in scientific communication, digital inclusion and promoting public involvement in research
