@@ -7,6 +7,16 @@
 - 🌱 I'm currently exploring Gleam ✨, EffectTS, Roc, 🌔 Moonbit and functional programming
 - 📫 You can find me on: [LinkedIn](https://www.linkedin.com/in/olilukejones), [Twitter](https://twitter.com/duck_rabbit_py)
 <br />
+
+**Note:**  
+If you are looking for the 🟩 🟩 🟩🟩 🟩 from my work at [Stitch](https://www.stitchhealth.co/) you won’t find them here!  
+I have a separate private account for Stitch. However, I keep busy!
+
+
+<img width="301" height="112" alt="Screenshot 2025-08-21 at 23 45 51" src="https://github.com/user-attachments/assets/74bfaac9-75c1-46ab-8974-66571a455b11" />
+
+<br />
+<br />
 <b>Q</b>: What's the deal with the github name?
 <br />
 <b>A</b>: I'm a big fan of the famous illusion and I started out with Python before JavaScript!
